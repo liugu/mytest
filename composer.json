@@ -1,0 +1,23 @@
+{
+    "name": "liugu/uploadfile",
+    "description": "一个通用文件上传包",
+    "authors": [
+        {
+            "name": "liugu",
+            "email": "455292569@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "autoload": {
+        "psr-4": {
+            "Liugu\\": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
